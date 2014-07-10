@@ -1,4 +1,4 @@
-lov-py
-======
+limes-py
+========
 
-REST interface wrapper for LOV
+Python wrapper for LIMES link discovery framework: http://aksw.org/Projects/LIMES.html
