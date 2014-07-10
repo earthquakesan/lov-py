@@ -12,6 +12,7 @@ setup(
     description='LOV vocabulary repository wrapper.',
     long_description=open('README.txt').read(),
     install_requires=[
+        "requests"
     ],
 )
 
